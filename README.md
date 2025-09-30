@@ -18,7 +18,7 @@ I use this space to document my learning journey, share projects, and grow into 
 📅 **2025 Goals**
 - ✅ Master Python fundamentals  
 - ✅ Master DSA  
-- 🚀 Build 3 ML projects  
+- 🚀 Build ML projects  
 - 🌟 Contribute to open-source
 
 💡 Follow my journey as I grow from beginner to ML engineer!
